@@ -13,7 +13,7 @@ public class Selenium_murad_rahat_june29 {
 		driver.get("https//:walmart.com");
 		driver.manage().window().maximize(); // Fullscreen () method
 		driver.manage().deleteAllCookies();
-		Thread.sleep(6000);
+		Thread.sleep(6000); // change to see github push
 		driver.quit();
 
 	}
